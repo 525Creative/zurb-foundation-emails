@@ -1,4 +1,10 @@
+// Global Variables
 @import 'settings';
 @import 'foundation-emails';
 
+// Custom Utility Classes
+@import 'util/util';
+
+// Templates and Template Parts
 @import 'template/template';
+

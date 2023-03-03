@@ -1,0 +1,12 @@
+@import "../settings";
+
+.padding-sm{
+  padding: $global-padding/2;
+}
+.padding-md{
+  padding: $global-padding;
+}
+
+.padding-lg{
+  padding: $global-padding * 1.5;
+}

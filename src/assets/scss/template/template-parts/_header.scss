@@ -1,0 +1,25 @@
+// Full Width Headers
+.header {
+  background: $header-background;
+}
+
+.header .columns {
+  padding-bottom: 0;
+}
+
+.header p {
+  color: #fff;
+  padding-top: 15px;
+}
+
+.header .wrapper-inner {
+  padding: 20px;
+}
+
+.container.header {
+  background: #f3f3f3;
+}
+
+.header .container {
+  background: transparent;
+}
